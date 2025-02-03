@@ -2,6 +2,8 @@
 
 This is a simple number guessing game implemented in TypeScript. The game randomly selects a number between 1 and 100, and the player has to guess the number within a limited number of attempts based on the selected difficulty level.
 
+This project is based on the roadmap for the [Number Guessing Game](https://roadmap.sh/projects/number-guessing-game).
+
 ## Features
 
 - Three difficulty levels: Easy, Medium, and Hard.
